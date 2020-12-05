@@ -6,10 +6,12 @@
 
 # Links
 
-Ultimate guide to getting started: https://www.codecademy.com/articles/visual-studio-code
-What does "web development" even mean? https://www.pluralsight.com/blog/software-development/front-end-vs-back-end
-Do I need to know math? https://forum.freecodecamp.org/t/should-i-be-good-at-math-to-be-a-web-developer/109535
-https://www.reddit.com/r/webdev/comments/8kubmq/are_math_skills_important_for_a_career_in_web/
+* Ultimate guide to getting started:
+https://www.codecademy.com/articles/visual-studio-code
+* What does "web development" even mean? https://www.pluralsight.com/blog/software-development/front-end-vs-back-end
+* Do I need to know math? 
+* * https://forum.freecodecamp.org/t/should-i-be-good-at-math-to-be-a-web-developer/109535
+* * https://www.reddit.com/r/webdev/comments/8kubmq/are_math_skills_important_for_a_career_in_web/
 
 ## Initial concepts to build a foundation 
 * https://www.youtube.com/watch?v=FXqTHsPaY0A&ab_channel=CodeAcademy
